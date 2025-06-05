@@ -1,12 +1,9 @@
 # Requisitos para que o código funcione corretamente:
 
 ### 1. Python instalado.
-### 2. Ter as bibliotecas networkx e matplotlib instaladas
 
-## Clone o código.
+## Instalar todas as dependências:
 
-Reserve uma pasta, inicie o git com `git init`, em seguida rode o comando de clonar o repositório e caso não tenha as bibliotecas instaladas, instale com os comandos abaixo.
+### Esteja no diretório em que o arquivo requirements.txt está e rode o comando:
 
-## Rode o comando:
-
-`pip install matplotlib networkx`
+`pip install -r requirements.txt`
